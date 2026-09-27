@@ -58,6 +58,4 @@ cd ironvision
 
 IronVision uses the RevenueCat SDK to gate **IronVision Pro** (Ghost PR overlay, velocity-based fatigue analysis, 60fps telemetry export, unlimited kinematic history) behind a subscription — $7.99/month or $49.99/year with a 7-day free trial — while live tracking, rep counting, and the exercise library stay free.
 
-## License
 
-Add your license here (MIT, Apache 2.0, etc.)
