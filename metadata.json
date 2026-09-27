@@ -1,0 +1,6 @@
+{
+  "name": "IronVision",
+  "description": "On-device lifting coach for real-time barbell deadlift and squat biomechanical analysis, bar path tracking, and joint angle telemetry.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
