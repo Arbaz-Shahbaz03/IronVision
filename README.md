@@ -12,7 +12,7 @@ Built for RevenueCat Shipaton 2026 (Next Gen Award — Student Track).
 
 | Dashboard | Athlete Onboarding | Exercise Divisions |
 |---|---|---|
-| ![Dashboard](assets/01-dashboard.png) | ![Athlete Onboarding](assets/02-athlete-onboarding.png) | ![Exercise Divisions](assets/03-exercise-divisions.png) |
+| ![Dashboard](assets/images/01-dashboard.png) | ![Athlete Onboarding](assets/02-athlete-onboarding.png) | ![Exercise Divisions](assets/03-exercise-divisions.png) |
 
 | Winter Arc Program | Live Tracking | Session History |
 |---|---|---|
